@@ -10,6 +10,8 @@ just click on the "Get New" button and install your desired theme and That's it!
 # 2. Using KDE Store:
 search for pling store (pling.com) and then click on the drop down menu:
 ![image](https://github.com/user-attachments/assets/ba06132b-c98f-4a29-8f7f-31a4ef8b4ea6)
-choose KDE plasma and look for all themes that support plasma 6:
+
+choose KDE plasma and look for all themes that support this version of KDE or Newer (these are usually titled as "Plasma 6"):
 ![image](https://github.com/user-attachments/assets/f2490f20-98a7-43da-9556-db4a06f6c601)
+
 another way is by just typing on google "KDE Store"
