@@ -15,3 +15,15 @@ choose KDE plasma and look for all themes that support this version of KDE or Ne
 ![image](https://github.com/user-attachments/assets/f2490f20-98a7-43da-9556-db4a06f6c601)
 
 another way is by just typing on google "KDE Store"
+
+# How to use the KDE Store?
+1. Install ocs-url:
+ ![image](https://github.com/user-attachments/assets/6037ee93-4256-4e99-862e-23f912182179)
+   
+2. Download the native package (".rpm" for Fedora, ".deb" for Debian based and yay for Arch based) and:
+![image](https://github.com/user-attachments/assets/aa799b6a-925c-4dba-aa8f-b36bd3afc3b0)
+
+3. Click on the install button:
+![image](https://github.com/user-attachments/assets/02f45707-478a-4ad2-8d94-9c71c4d068e2)
+
+Now just go to the settings and apply!
